@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-page: #fbeef5;
+  --color-ink: #670d15;
+  --font-navigation: "DM Sans", sans-serif;
+  --font-display: "Barlow Condensed", sans-serif;
+}
