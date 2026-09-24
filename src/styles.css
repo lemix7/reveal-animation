@@ -6,3 +6,21 @@
   --font-navigation: "DM Sans", sans-serif;
   --font-display: "Barlow Condensed", sans-serif;
 }
+
+@font-face {
+  font-family: "Hero Serif";
+  src: url("https://framerusercontent.com/assets/drfkWnQwumx4jvfIsGr5qEn2QfU.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Hero Serif";
+  src: url("https://framerusercontent.com/assets/UkwNRCNcPr75ixv3Xiv4YruWQE0.otf") format("opentype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+@theme {
+  --font-hero: "Hero Serif", Georgia, serif;
+}

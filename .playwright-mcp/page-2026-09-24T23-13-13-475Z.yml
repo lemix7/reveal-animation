@@ -1,0 +1,140 @@
+- generic [ref=f29e3]:
+  - generic [ref=f29e9]:
+    - generic [ref=f29e10]: Select Language
+    - combobox "Select Language" [ref=f29e11]:
+      - option "English" [selected]
+      - option "French"
+      - option "Spanish (Spain)"
+      - option "Catalan (Spain)"
+      - option "Portuguese (Brazil)"
+      - option "Turkish (Turkey)"
+      - option "Spanish (Argentina)"
+      - option "Dutch (Netherlands)"
+    - generic: English
+  - generic [ref=f29e16] [cursor=pointer]:
+    - link [ref=f29e18]:
+      - /url: ./
+      - paragraph [ref=f29e20]: Home
+    - link [ref=f29e22]:
+      - /url: ./careers
+      - paragraph [ref=f29e24]: Careers
+    - link [ref=f29e26]:
+      - /url: ./press
+      - paragraph [ref=f29e28]: Newsroom
+    - link [ref=f29e30]:
+      - /url: ./magazine
+      - paragraph [ref=f29e32]: Magazine
+  - generic [ref=f29e36]:
+    - generic [ref=f29e39]:
+      - paragraph [ref=f29e40]: Cross paths,
+      - paragraph [ref=f29e41]: Date local.
+    - generic [ref=f29e42]:
+      - link "A p p S t o r e" [ref=f29e44] [cursor=pointer]:
+        - /url: https://apps.apple.com/app/happn-dating-chat-meet/id489185828
+        - paragraph [ref=f29e50]:
+          - generic [ref=f29e51]: A
+          - generic [ref=f29e52]: p
+          - generic [ref=f29e53]: p
+          - generic [ref=f29e55]: S
+          - generic [ref=f29e56]: t
+          - generic [ref=f29e57]: o
+          - generic [ref=f29e58]: r
+          - generic [ref=f29e59]: e
+      - link "G o o g l e P l a y" [ref=f29e61] [cursor=pointer]:
+        - /url: https://play.google.com/store/apps/details?id=com.ftw_and_co.happn
+        - paragraph [ref=f29e67]:
+          - generic [ref=f29e68]: G
+          - generic [ref=f29e69]: o
+          - generic [ref=f29e70]: o
+          - generic [ref=f29e71]: g
+          - generic [ref=f29e72]: l
+          - generic [ref=f29e73]: e
+          - generic [ref=f29e75]: P
+          - generic [ref=f29e76]: l
+          - generic [ref=f29e77]: a
+          - generic [ref=f29e78]: "y"
+  - generic [ref=f29e85]:
+    - generic [ref=f29e86]:
+      - generic [ref=f29e87]:
+        - generic [ref=f29e88]:
+          - link [aria-hidden] [ref=f29e89] [cursor=pointer]:
+            - /url: ./
+          - paragraph [ref=f29e96]: Open 24/7 since 2014
+        - generic [ref=f29e97]:
+          - link [ref=f29e98] [cursor=pointer]:
+            - /url: https://www.tiktok.com/@happn.app?lang=en
+          - link [ref=f29e100] [cursor=pointer]:
+            - /url: https://www.instagram.com/happn_app
+          - link [ref=f29e102] [cursor=pointer]:
+            - /url: https://fr.linkedin.com/company/happn
+          - link [ref=f29e104] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/happn
+      - generic [ref=f29e106]:
+        - generic [ref=f29e107]:
+          - paragraph [ref=f29e109]: Company
+          - generic [ref=f29e110]:
+            - link [ref=f29e112] [cursor=pointer]:
+              - /url: ./careers
+              - paragraph [ref=f29e114]: Careers
+            - link [ref=f29e116] [cursor=pointer]:
+              - /url: ./press
+              - paragraph [ref=f29e118]: Newsroom
+            - link [ref=f29e120] [cursor=pointer]:
+              - /url: ./magazine
+              - paragraph [ref=f29e122]: Magazine
+            - link [ref=f29e124] [cursor=pointer]:
+              - /url: https://support.happn.fr/hc
+              - paragraph [ref=f29e126]: Contact
+            - link [ref=f29e128] [cursor=pointer]:
+              - /url: ./ads
+              - paragraph [ref=f29e130]: Ads
+        - generic [ref=f29e131]:
+          - paragraph [ref=f29e133]: Users
+          - generic [ref=f29e134]:
+            - link [ref=f29e136] [cursor=pointer]:
+              - /url: ./legal/trust-charter
+              - paragraph [ref=f29e138]: Trust charter
+            - link [ref=f29e140] [cursor=pointer]:
+              - /url: ./safety
+              - paragraph [ref=f29e142]: Safety Center
+            - link [ref=f29e144] [cursor=pointer]:
+              - /url: https://support.happn.fr/hc
+              - paragraph [ref=f29e146]: FAQ
+        - generic [ref=f29e147]:
+          - paragraph [ref=f29e149]: Legal
+          - generic [ref=f29e150]:
+            - link [ref=f29e152] [cursor=pointer]:
+              - /url: https://support.happn.fr/hc/p/terms
+              - paragraph [ref=f29e154]: Terms of service
+            - link [ref=f29e156] [cursor=pointer]:
+              - /url: https://support.happn.fr/hc/p/privacy
+              - paragraph [ref=f29e158]: Privacy policy
+            - link [ref=f29e160] [cursor=pointer]:
+              - /url: https://support.happn.fr/hc/p/cookies/
+              - paragraph [ref=f29e162]: Cookies
+            - link [ref=f29e164] [cursor=pointer]:
+              - /url: javascript:Didomi.preferences.show()
+              - paragraph [ref=f29e166]: Manage cookies
+            - link [ref=f29e168] [cursor=pointer]:
+              - /url: ./legal/legal
+              - paragraph [ref=f29e170]: Legal
+    - generic [ref=f29e173]:
+      - generic [ref=f29e174]: ©
+      - generic [ref=f29e176]: C
+      - generic [ref=f29e177]: o
+      - generic [ref=f29e178]: p
+      - generic [ref=f29e179]: "y"
+      - generic [ref=f29e180]: r
+      - generic [ref=f29e181]: i
+      - generic [ref=f29e182]: g
+      - generic [ref=f29e183]: h
+      - generic [ref=f29e184]: t
+      - generic [ref=f29e186]: h
+      - generic [ref=f29e187]: a
+      - generic [ref=f29e188]: p
+      - generic [ref=f29e189]: p
+      - generic [ref=f29e190]: "n"
+      - generic [ref=f29e192]: "2"
+      - generic [ref=f29e193]: "0"
+      - generic [ref=f29e194]: "2"
+      - generic [ref=f29e195]: "5"
