@@ -22,7 +22,7 @@ export default function Navbar({ currentRoute, onNavigate }) {
 
   return (
     <header className="relative z-20 font-navigation text-ink">
-      <a className="absolute top-4 left-6 block h-19 w-28 overflow-hidden focus-visible:outline-2 focus-visible:outline-offset-4 md:top-5 md:left-1/2 md:h-28 md:w-42 md:-translate-x-1/2" href="#home" aria-label="MBM — home" onClick={(event) => handleClick(event, 'home')}>
+      <a className="absolute top-4 left-6 block h-19 w-28 origin-top-left scale-75 overflow-hidden focus-visible:outline-2 focus-visible:outline-offset-4 md:top-5 md:left-1/2 md:h-28 md:w-42 md:origin-top md:-translate-x-1/2" href="#home" aria-label="MBM — home" onClick={(event) => handleClick(event, 'home')}>
         <img src={logo} alt="MBM logo" width="500" height="500" className="absolute -top-20.75 -left-16.25 w-60 max-w-none md:-top-30.25 md:-left-23.5 md:w-87.5" />
       </a>
       <button className="absolute top-4 right-5 grid size-11 place-items-center rounded-lg hover:bg-ink/5 focus-visible:outline-2 md:hidden" type="button" aria-label={menuOpen ? 'Close navigation' : 'Open navigation'} aria-expanded={menuOpen} aria-controls="hero-navigation" onClick={() => setMenuOpen(!menuOpen)}>
