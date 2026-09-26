@@ -21,7 +21,7 @@ export default function App() {
       <main id="page-content">
         {currentRoute === 'home' ? <Hero /> : (
         <section className="relative flex h-svh w-full items-center justify-center overflow-hidden bg-page text-ink" data-page={currentRoute}>
-          <h1 className="font-display text-[clamp(5rem,15vw,20rem)] leading-none font-extrabold tracking-[-0.02em] uppercase">{pages[currentRoute]}</h1>
+          <h1 className="font-hero text-[clamp(2.7rem,12.8vw,4.5rem)] leading-none font-black tracking-[-0.02em] md:text-[clamp(4.5rem,8.333vw,8.5rem)]">{pages[currentRoute]}</h1>
         </section>
         )}
       </main>
